@@ -18,5 +18,5 @@ helloi=
 helloi=
 helloi=
 helloi=
-helloi=
+helloi=clone
 hello=github
